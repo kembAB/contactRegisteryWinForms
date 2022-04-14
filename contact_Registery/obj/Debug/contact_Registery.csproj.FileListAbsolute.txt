@@ -1,0 +1,19 @@
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.exe.config
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.Properties.Resources.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.csproj.GenerateResource.Cache
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.FormMain.resources
+C:\Users\Administratör\Desktop\malmo c# assignment\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.csprojResolveAssemblyReference.cache
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.exe.config
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.exe
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\bin\Debug\contact_Registery.pdb
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.csprojResolveAssemblyReference.cache
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.FormMain.resources
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.Properties.Resources.resources
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.csproj.GenerateResource.Cache
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.csproj.CoreCompileInputs.cache
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.exe
+C:\Users\Administratör\Dropbox\assignment6\assignment6\contact Registery\contact_Registery\contact_Registery\obj\Debug\contact_Registery.pdb
